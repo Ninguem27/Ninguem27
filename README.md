@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Ninguem ou Kaio :wave:
 
-- 👨‍💻 Hoje Estudo Front-end
-- 📚 Estudando Kotlin e JavaScript
+- 👨‍💻 Formando em ADS(Analise e desenvolvimento de sistema)
+- 📚 Estudando de Jogos Digitais
 
 <div>
   <a href="https://github.com/Ninguem27">
