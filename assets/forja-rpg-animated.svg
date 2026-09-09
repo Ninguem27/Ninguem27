@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Forja dos Mundos animated RPG banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d16"/>
+      <stop offset="0.55" stop-color="#131a2a"/>
+      <stop offset="1" stop-color="#090d16"/>
+    </linearGradient>
+    <radialGradient id="ember" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="0.5" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" rx="22" fill="url(#bg)"/>
+  <rect x="12" y="12" width="976" height="236" rx="16" fill="none" stroke="#b88a44" stroke-opacity=".42"/>
+
+  <g opacity=".32" stroke="#8b5cf6" fill="none">
+    <circle cx="500" cy="130" r="88"/>
+    <circle cx="500" cy="130" r="112" stroke-dasharray="5 10">
+      <animateTransform attributeName="transform" type="rotate" from="0 500 130" to="360 500 130" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g fill="#f59e0b" filter="url(#glow)">
+    <circle cx="170" cy="205" r="4"><animate attributeName="cy" values="205;48;205" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="215" r="3"><animate attributeName="cy" values="215;70;215" dur="6s" repeatCount="indefinite" begin=".7s"/><animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite" begin=".7s"/></circle>
+    <circle cx="760" cy="215" r="3.5"><animate attributeName="cy" values="215;52;215" dur="5.2s" repeatCount="indefinite" begin=".3s"/><animate attributeName="opacity" values="0;1;0" dur="5.2s" repeatCount="indefinite" begin=".3s"/></circle>
+    <circle cx="835" cy="202" r="4"><animate attributeName="cy" values="202;63;202" dur="4.4s" repeatCount="indefinite" begin="1.1s"/><animate attributeName="opacity" values="0;1;0" dur="4.4s" repeatCount="indefinite" begin="1.1s"/></circle>
+  </g>
+
+  <g transform="translate(110 50)" stroke="#d6b36a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 18 L78 54 L58 74 L22 38 Z"/>
+    <path d="M55 62 L24 93"/>
+    <path d="M18 88 L29 99"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 48 58;-7 48 58;0 48 58;7 48 58;0 48 58" dur="3s" repeatCount="indefinite" additive="sum"/>
+  </g>
+
+  <g transform="translate(820 52)" stroke="#d6b36a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 16 L76 74"/>
+    <path d="M76 16 L18 74"/>
+    <path d="M42 6 L52 16 L42 26 L32 16 Z"/>
+    <animateTransform attributeName="transform" type="translate" values="820 52;820 47;820 52" dur="2.8s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="500" y="108" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#f8fafc">KAIO • NINGUEM27</text>
+  <text x="500" y="151" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#c4b5fd">DESENVOLVIMENTO • GAME DESIGN • RPG</text>
+  <text x="500" y="190" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#d6b36a">⚒ FORJA DOS MUNDOS ⚒</text>
+
+  <g transform="translate(500 220)">
+    <circle r="12" fill="url(#ember)">
+      <animate attributeName="r" values="8;15;8" dur="2.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".45;1;.45" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
