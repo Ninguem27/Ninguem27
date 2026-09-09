@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="250" viewBox="0 0 420 250" role="img" aria-label="D20 de RPG sendo jogado">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d16"/>
+      <stop offset="1" stop-color="#182238"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8d36a"/>
+      <stop offset="1" stop-color="#b88728"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="250" rx="22" fill="url(#bg)"/>
+  <rect x="10" y="10" width="400" height="230" rx="16" fill="none" stroke="#8b5cf6" stroke-opacity=".35"/>
+  <text x="210" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#d6b36a">D20 EM MOVIMENTO - FORJA DOS MUNDOS</text>
+
+  <path d="M55 182 C125 52 255 45 350 178" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="7 10" opacity=".45">
+    <animate attributeName="stroke-dashoffset" values="0;-34" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="58 174;185 72;342 172;278 196;58 174" dur="4.4s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;160;340;520;720" dur="4.4s" repeatCount="indefinite"/>
+      <polygon points="0,-38 33,-18 31,20 0,42 -31,20 -33,-18" fill="#101827" stroke="url(#gold)" stroke-width="4"/>
+      <polygon points="0,-38 28,-10 0,7 -28,-10" fill="#1b2741" stroke="#d6b36a" stroke-width="2"/>
+      <polygon points="0,7 28,-10 24,18 0,42" fill="#263657" stroke="#d6b36a" stroke-width="2"/>
+      <polygon points="0,7 -28,-10 -24,18 0,42" fill="#131d31" stroke="#d6b36a" stroke-width="2"/>
+      <text x="0" y="-6" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff">20</text>
+      <text x="13" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">17</text>
+      <text x="-13" y="18" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">1</text>
+    </g>
+  </g>
+
+  <g fill="#f59e0b">
+    <circle cx="72" cy="190" r="3"><animate attributeName="cy" values="190;78;190" dur="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="114" cy="196" r="2.5"><animate attributeName="cy" values="196;94;196" dur="4.4s" begin=".6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.4s" begin=".6s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="192" r="3"><animate attributeName="cy" values="192;84;192" dur="4.4s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4.4s" begin="1.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="210" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#c4b5fd">rolando pela mesa...</text>
+</svg>
