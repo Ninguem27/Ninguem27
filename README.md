@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/forja-rpg-animated.svg" width="100%" alt="Kaio Ninguem27 - Forja dos Mundos" />
+# ⚒️ Kaio • Ninguem27
 
-<br/>
+### 🎮 Desenvolvimento de Software • Game Design • RPG • Worldbuilding
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software+%E2%80%A2+Game+Design+%E2%80%A2+RPG;Worldbuilding+%E2%80%A2+Mapas+%E2%80%A2+Besti%C3%A1rios+%E2%80%A2+Cartas;Criando+a+Forja+dos+Mundos" alt="Texto animado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software+%E2%80%A2+Game+Design+%E2%80%A2+RPG;Worldbuilding+%E2%80%A2+Mapas+%E2%80%A2+Besti%C3%A1rios+%E2%80%A2+Cartas;Criando+a+Forja+dos+Mundos" alt="Apresentação animada" />
 
 **Transformando ideias em sistemas, mundos e experiências digitais.**
 
@@ -81,21 +81,11 @@ A **Forja dos Mundos** é meu principal projeto: uma plataforma criada para reun
 
 ---
 
-## 🐍 Contribuições em movimento
+## 🎲 RPG em movimento
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub" />
-
-</div>
-
----
-
-## 🎲 Role os dados
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/d20-rolling.svg" width="420" alt="D20 de RPG sendo jogado" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=650&color=D6B36A&center=true&vCenter=true&width=760&lines=%F0%9F%8E%B2+Rolando+o+D20...;%E2%9C%A8+20+%E2%80%94+ACERTO+CR%C3%8DTICO!;%F0%9F%90%89+Uma+nova+aventura+come%C3%A7a...;%E2%9A%92%EF%B8%8F+Forjando+um+novo+mundo..." alt="D20 animado em texto" />
 
 **Todo novo projeto começa com uma rolagem.**
 
