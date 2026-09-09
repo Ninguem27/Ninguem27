@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./assets/forja-rpg-animated.svg" width="100%" alt="Banner animado Kaio Ninguem27 - Forja dos Mundos" />
+<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/forja-rpg-animated.svg" width="100%" alt="Kaio Ninguem27 - Forja dos Mundos" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software+%E2%80%A2+Game+Design+%E2%80%A2+RPG;Worldbuilding+%E2%80%A2+Mapas+%E2%80%A2+Besti%C3%A1rios+%E2%80%A2+Cartas;Criando+a+Forja+dos+Mundos" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software+%E2%80%A2+Game+Design+%E2%80%A2+RPG;Worldbuilding+%E2%80%A2+Mapas+%E2%80%A2+Besti%C3%A1rios+%E2%80%A2+Cartas;Criando+a+Forja+dos+Mundos" alt="Texto animado" />
 
 **Transformando ideias em sistemas, mundos e experiências digitais.**
 
 [![Forja dos Mundos](https://img.shields.io/badge/Forja%20dos%20Mundos-0B0F19?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://forjadosmundos.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github)](https://github.com/Ninguem27)
+[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninguem27)
 [![Instagram](https://img.shields.io/badge/Instagram-ninguem__27of-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
 
 </div>
@@ -35,8 +35,6 @@ Atuo na interseção entre **tecnologia, jogos digitais e RPG**, criando projeto
 
 A **Forja dos Mundos** é meu principal projeto: uma plataforma criada para reunir ferramentas, conteúdo e experiências voltadas a **mestres, jogadores e criadores de RPG**.
 
-O projeto conecta desenvolvimento web e game design em recursos como:
-
 - 🗺️ criação e organização de mapas
 - 🐉 bestiários e criaturas
 - 🃏 cartas de habilidades, magias e itens
@@ -47,8 +45,8 @@ O projeto conecta desenvolvimento web e game design em recursos como:
 
 <div align="center">
 
-[![Acessar Forja dos Mundos](https://img.shields.io/badge/🌐_Acessar-Forja_dos_Mundos-8B5CF6?style=for-the-badge)](https://forjadosmundos.com)
-[![Repositório](https://img.shields.io/badge/📦_Repositório-Forja_dos_Mundos-111827?style=for-the-badge&logo=github)](https://github.com/Ninguem27/Forja-dos-mundos)
+[![Acessar Forja dos Mundos](https://img.shields.io/badge/Acessar-Forja_dos_Mundos-8B5CF6?style=for-the-badge)](https://forjadosmundos.com)
+[![Repositório](https://img.shields.io/badge/Repositorio-Forja_dos_Mundos-111827?style=for-the-badge&logo=github)](https://github.com/Ninguem27/Forja-dos-mundos)
 
 </div>
 
@@ -83,6 +81,28 @@ O projeto conecta desenvolvimento web e game design em recursos como:
 
 ---
 
+## 🐍 Contribuições em movimento
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub" />
+
+</div>
+
+---
+
+## 🎲 Role os dados
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/d20-rolling.svg" width="420" alt="D20 de RPG sendo jogado" />
+
+**Todo novo projeto começa com uma rolagem.**
+
+</div>
+
+---
+
 ## 🎯 Atualmente
 
 ```text
@@ -108,8 +128,8 @@ Meu objetivo é continuar evoluindo esses projetos até transformar a **Forja do
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matachancho02@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
 
-<br/>
+### ⚔️ Código, sistemas e mundos sendo forjados um projeto de cada vez.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=110&section=footer&text=%E2%9A%94%EF%B8%8F%20Continue%20forjando...&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" alt="Rodapé animado" />
+`Ninguem27 • Forja dos Mundos`
 
 </div>
