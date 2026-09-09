@@ -1,13 +1,15 @@
 <div align="center">
 
-# ⚒️ Kaio • Ninguem27
+<img src="./assets/forja-rpg-animated.svg" width="100%" alt="Banner animado Kaio Ninguem27 - Forja dos Mundos" />
 
-### Desenvolvimento de Software • Game Design • RPG • Worldbuilding
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software+%E2%80%A2+Game+Design+%E2%80%A2+RPG;Worldbuilding+%E2%80%A2+Mapas+%E2%80%A2+Besti%C3%A1rios+%E2%80%A2+Cartas;Criando+a+Forja+dos+Mundos" alt="Typing SVG" />
 
 **Transformando ideias em sistemas, mundos e experiências digitais.**
 
 [![Forja dos Mundos](https://img.shields.io/badge/Forja%20dos%20Mundos-0B0F19?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://forjadosmundos.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninguem27)
+[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github)](https://github.com/Ninguem27)
 [![Instagram](https://img.shields.io/badge/Instagram-ninguem__27of-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
 
 </div>
@@ -53,8 +55,6 @@ O projeto conecta desenvolvimento web e game design em recursos como:
 ---
 
 ## 🐉 RPG & Game Design
-
-Áreas que fazem parte dos meus projetos e estudos:
 
 | Área | O que desenvolvo |
 |---|---|
@@ -108,14 +108,8 @@ Meu objetivo é continuar evoluindo esses projetos até transformar a **Forja do
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matachancho02@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-### ⚔️ Código, sistemas e mundos sendo forjados um projeto de cada vez.
-
-`Ninguem27 • Forja dos Mundos`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=110&section=footer&text=%E2%9A%94%EF%B8%8F%20Continue%20forjando...&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" alt="Rodapé animado" />
 
 </div>
