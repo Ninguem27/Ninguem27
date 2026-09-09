@@ -1,26 +1,112 @@
-### Olá, Eu sou o Ninguem ou Kaio :wave:
+<div align="center">
 
-- 👨‍💻 Formando em ADS(Analise e desenvolvimento de sistema)
-- 📚 Estudando de Jogos Digitais
+# ⚒️ Kaio | Ninguem27
 
-<div>
-  <a href="https://github.com/Ninguem27">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ninguem27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem27&layout=compact&langs_count=7&theme=tokyonight"/>
+### Desenvolvedor em formação • Game Design • RPG • Worldbuilding
+
+**Criando sistemas, mundos, ferramentas e experiências digitais para RPG.**
+
+[![Forja dos Mundos](https://img.shields.io/badge/⚒️_Forja_dos_Mundos-111827?style=for-the-badge)](https://forjadosmundos.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github)](https://github.com/Ninguem27)
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ninguem27-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ninguem27-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ninguem27-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ninguem27-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ninguem27-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="right" alt="Ninguem27-Anime" src="https://steamuserimages-a.akamaihd.net/ugc/1753561307331561734/57C98DFACD8964BA1AFB9B1A4DD15C9B897B579D/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+
+---
+
+## 👤 Sobre mim
+
+Sou **Kaio**, também conhecido como **Ninguem27**. Estou construindo minha trajetória entre desenvolvimento de software, jogos digitais e criação de conteúdo para RPG.
+
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas**
+- 🎮 Estudando **Jogos Digitais**
+- 🧙 Interesse em **RPG de mesa, game design e criação de sistemas**
+- 🌍 Foco em **worldbuilding, mapas, bestiários, cartas, personagens e narrativas**
+- ⚙️ Desenvolvimento de **sites, ferramentas e experiências interativas**
+- 🔨 Criador do projeto **Forja dos Mundos**
+
+---
+
+## 🐉 RPG & Game Design
+
+A maior parte dos meus projetos atuais gira em torno da criação de experiências para RPG:
+
+- 📖 Sistemas e livros de RPG
+- 🗺️ Mundos, reinos, mapas e ambientações
+- 🐲 Criaturas, bestiários e encontros
+- 🃏 Cartas de habilidades, magias, itens e personagens
+- 🎲 Mecânicas, progressão, loot e tabelas de jogo
+- 🧩 Ferramentas digitais para mestres e jogadores
+- 🤖 Integrações e automações para comunidades de RPG
+
+> **Ideia central:** transformar criação de mundos em ferramentas que jogadores e mestres possam realmente usar em suas mesas.
+
+---
+
+## ⚒️ Projeto em destaque — Forja dos Mundos
+
+**Forja dos Mundos** é meu principal projeto: uma plataforma voltada para criação, organização e compartilhamento de conteúdo de RPG.
+
+O projeto reúne conceitos de desenvolvimento web, game design e construção de mundos, com recursos pensados para autores, mestres e jogadores.
+
+🌐 **Site:** [forjadosmundos.com](https://forjadosmundos.com)
+
+---
+
+## 🧰 Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
-  
- ##
-  
-<div> 
-  <a href = "mailto:matachancho02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/ninguem_27of" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
-  
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ninguem27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem27&layout=compact&langs_count=7&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 O que estou construindo
+
+```text
+⚒️ Forja dos Mundos
+├── 🌍 Criação de mundos
+├── 🗺️ Mapas e ambientações
+├── 🐉 RPG e bestiários
+├── 🃏 Cartas e recursos de jogo
+├── 🎲 Ferramentas para mesas
+├── 🤖 Integrações para comunidade
+└── 💻 Desenvolvimento web
+```
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matachancho02@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ Código, mundos e histórias sendo forjados um projeto de cada vez.
+
+</div>
