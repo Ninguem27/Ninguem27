@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/forja-rpg-banner.gif" width="100%" alt="Banner animado Kaio Ninguem27 - Forja dos Mundos" />
+<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/forja-rpg-banner.gif" width="100%" alt="Banner animado Kaio Ninguem27 - Forja dos Mundos" />
 
 <br/>
 
@@ -95,7 +95,7 @@ A **Forja dos Mundos** é meu principal projeto: uma plataforma criada para reun
 
 <div align="center">
 
-<img src="./assets/d20-rolling.gif" width="520" alt="D20 de RPG sendo jogado" />
+<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/d20-rolling.gif" width="520" alt="D20 de RPG sendo jogado" />
 
 **Todo novo projeto começa com uma rolagem.**
 
