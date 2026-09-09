@@ -1,13 +1,14 @@
 <div align="center">
 
-# ⚒️ Kaio | Ninguem27
+# ⚒️ Kaio • Ninguem27
 
-### Desenvolvedor em formação • Game Design • RPG • Worldbuilding
+### Desenvolvimento de Software • Game Design • RPG • Worldbuilding
 
-**Criando sistemas, mundos, ferramentas e experiências digitais para RPG.**
+**Transformando ideias em sistemas, mundos e experiências digitais.**
 
-[![Forja dos Mundos](https://img.shields.io/badge/⚒️_Forja_dos_Mundos-111827?style=for-the-badge)](https://forjadosmundos.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github)](https://github.com/Ninguem27)
+[![Forja dos Mundos](https://img.shields.io/badge/Forja%20dos%20Mundos-0B0F19?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://forjadosmundos.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninguem27)
+[![Instagram](https://img.shields.io/badge/Instagram-ninguem__27of-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
 
 </div>
 
@@ -15,40 +16,54 @@
 
 ## 👤 Sobre mim
 
-Sou **Kaio**, também conhecido como **Ninguem27**. Estou construindo minha trajetória entre desenvolvimento de software, jogos digitais e criação de conteúdo para RPG.
+Sou **Kaio**, também conhecido como **Ninguem27**.
 
-- 🎓 Formação em **Análise e Desenvolvimento de Sistemas**
+Atuo na interseção entre **tecnologia, jogos digitais e RPG**, criando projetos que combinam programação, design de sistemas, construção de mundos e ferramentas para comunidades de jogadores.
+
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
 - 🎮 Estudando **Jogos Digitais**
-- 🧙 Interesse em **RPG de mesa, game design e criação de sistemas**
-- 🌍 Foco em **worldbuilding, mapas, bestiários, cartas, personagens e narrativas**
-- ⚙️ Desenvolvimento de **sites, ferramentas e experiências interativas**
-- 🔨 Criador do projeto **Forja dos Mundos**
+- 🧙 Criando sistemas e conteúdos para **RPG de mesa**
+- 🌍 Trabalhando com **worldbuilding, mapas, bestiários, cartas e narrativas**
+- 💻 Desenvolvendo **sites, ferramentas e experiências interativas**
+- ⚒️ Criador da **Forja dos Mundos**
+
+---
+
+## ⚒️ Projeto principal — Forja dos Mundos
+
+A **Forja dos Mundos** é meu principal projeto: uma plataforma criada para reunir ferramentas, conteúdo e experiências voltadas a **mestres, jogadores e criadores de RPG**.
+
+O projeto conecta desenvolvimento web e game design em recursos como:
+
+- 🗺️ criação e organização de mapas
+- 🐉 bestiários e criaturas
+- 🃏 cartas de habilidades, magias e itens
+- 📖 sistemas, livros e materiais de RPG
+- 🎲 ferramentas para mestres e jogadores
+- 🤖 integrações para comunidade e automação
+- 🧩 recursos para criação e compartilhamento de mundos
+
+<div align="center">
+
+[![Acessar Forja dos Mundos](https://img.shields.io/badge/🌐_Acessar-Forja_dos_Mundos-8B5CF6?style=for-the-badge)](https://forjadosmundos.com)
+[![Repositório](https://img.shields.io/badge/📦_Repositório-Forja_dos_Mundos-111827?style=for-the-badge&logo=github)](https://github.com/Ninguem27/Forja-dos-mundos)
+
+</div>
 
 ---
 
 ## 🐉 RPG & Game Design
 
-A maior parte dos meus projetos atuais gira em torno da criação de experiências para RPG:
+Áreas que fazem parte dos meus projetos e estudos:
 
-- 📖 Sistemas e livros de RPG
-- 🗺️ Mundos, reinos, mapas e ambientações
-- 🐲 Criaturas, bestiários e encontros
-- 🃏 Cartas de habilidades, magias, itens e personagens
-- 🎲 Mecânicas, progressão, loot e tabelas de jogo
-- 🧩 Ferramentas digitais para mestres e jogadores
-- 🤖 Integrações e automações para comunidades de RPG
-
-> **Ideia central:** transformar criação de mundos em ferramentas que jogadores e mestres possam realmente usar em suas mesas.
-
----
-
-## ⚒️ Projeto em destaque — Forja dos Mundos
-
-**Forja dos Mundos** é meu principal projeto: uma plataforma voltada para criação, organização e compartilhamento de conteúdo de RPG.
-
-O projeto reúne conceitos de desenvolvimento web, game design e construção de mundos, com recursos pensados para autores, mestres e jogadores.
-
-🌐 **Site:** [forjadosmundos.com](https://forjadosmundos.com)
+| Área | O que desenvolvo |
+|---|---|
+| 🎲 **Sistemas de RPG** | regras, progressão, classes, habilidades e mecânicas |
+| 🌍 **Worldbuilding** | mundos, reinos, facções, culturas e histórias |
+| 🗺️ **Mapas & Cenários** | regiões, cidades, masmorras e ambientes de jogo |
+| 🐲 **Bestiários** | criaturas, inimigos, encontros e desafios |
+| 🃏 **Cartas de RPG** | magias, habilidades, itens, personagens e equipamentos |
+| 💻 **Ferramentas digitais** | sites, geradores e recursos para mesas de RPG |
 
 ---
 
@@ -68,29 +83,21 @@ O projeto reúne conceitos de desenvolvimento web, game design e construção de
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ninguem27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem27&layout=compact&langs_count=7&theme=tokyonight" />
-
-</div>
-
----
-
-## 🎯 O que estou construindo
+## 🎯 Atualmente
 
 ```text
-⚒️ Forja dos Mundos
-├── 🌍 Criação de mundos
+⚒️ FORJA DOS MUNDOS
+│
+├── 🌍 Construção de mundos
 ├── 🗺️ Mapas e ambientações
-├── 🐉 RPG e bestiários
+├── 🐉 Bestiários e criaturas
 ├── 🃏 Cartas e recursos de jogo
-├── 🎲 Ferramentas para mesas
-├── 🤖 Integrações para comunidade
+├── 🎲 Sistemas e ferramentas para RPG
+├── 🤖 Comunidade e automações
 └── 💻 Desenvolvimento web
 ```
+
+Meu objetivo é continuar evoluindo esses projetos até transformar a **Forja dos Mundos** em um ecossistema completo para criação e uso de conteúdo de RPG.
 
 ---
 
@@ -107,6 +114,8 @@ O projeto reúne conceitos de desenvolvimento web, game design e construção de
 
 <div align="center">
 
-### ⚔️ Código, mundos e histórias sendo forjados um projeto de cada vez.
+### ⚔️ Código, sistemas e mundos sendo forjados um projeto de cada vez.
+
+`Ninguem27 • Forja dos Mundos`
 
 </div>
