@@ -1,135 +1,43 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/forja-rpg-banner.gif" width="100%" alt="Banner animado Kaio Ninguem27 - Forja dos Mundos" />
+<img src="assets/forja-rpg-banner.gif" width="100%" alt="Kaio — Forja dos Mundos" />
 
-<br/>
+# Kaio Lucas Finizola de Oliveira da Costa
+### Desenvolvedor Full Stack · Graduando em Análise e Desenvolvimento de Sistemas
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Desenvolvimento+de+Software+%E2%80%A2+Game+Design+%E2%80%A2+RPG;Worldbuilding+%E2%80%A2+Mapas+%E2%80%A2+Besti%C3%A1rios+%E2%80%A2+Cartas;Criando+a+Forja+dos+Mundos" alt="Apresentação animada" />
+Tramandaí, RS · Interesse em oportunidades remotas e estágio em tecnologia
 
-**Transformando ideias em sistemas, mundos e experiências digitais.**
-
-[![Forja dos Mundos](https://img.shields.io/badge/Forja%20dos%20Mundos-0B0F19?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://forjadosmundos.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ninguem27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ninguem27)
-[![Instagram](https://img.shields.io/badge/Instagram-ninguem__27of-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
+[Conheça meu portfólio](https://github.com/Ninguem27/Portfolio-Profissional) · [Contato por e-mail](mailto:matachancho02@gmail.com)
 
 </div>
 
----
+## Sobre mim
 
-## 👤 Sobre mim
+Desenvolvo sites e aplicações web, trabalhando desde a interface até a integração de dados e a preparação para hospedagem. Meus projetos incluem uma plataforma de RPG, um sistema imobiliário e sites de apresentação comercial e profissional.
 
-Sou **Kaio**, também conhecido como **Ninguem27**.
+Sou responsável pelo desenvolvimento dos projetos apresentados e conto com uma pessoa no apoio aos testes. Busco minha primeira oportunidade formal na área de tecnologia para contribuir com projetos reais e continuar evoluindo em equipe.
 
-Atuo na interseção entre **tecnologia, jogos digitais e RPG**, criando projetos que combinam programação, design de sistemas, construção de mundos e ferramentas para comunidades de jogadores.
+## Projetos em destaque
 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas**
-- 🎮 Estudando **Jogos Digitais**
-- 🧙 Criando sistemas e conteúdos para **RPG de mesa**
-- 🌍 Trabalhando com **worldbuilding, mapas, bestiários, cartas e narrativas**
-- 💻 Desenvolvendo **sites, ferramentas e experiências interativas**
-- ⚒️ Criador da **Forja dos Mundos**
+| Projeto | Problema atendido | Apresentação |
+| --- | --- | --- |
+| **Forja dos Mundos** | Reunir ferramentas para jogadores e mestres de RPG | [Ver projeto](https://github.com/Ninguem27/Portfolio-Profissional/blob/main/projetos/forja-dos-mundos.md) |
+| **Reginaldo Lopes Imóveis** | Apresentar imóveis e organizar a gestão no painel administrativo | [Ver projeto](https://github.com/Ninguem27/Portfolio-Profissional/blob/main/projetos/reginaldo-lopes-imoveis.md) |
+| **Tati Finizola Creator** | Apresentar cursos, comunidade, workshops e serviços | [Ver projeto](https://github.com/Ninguem27/Portfolio-Profissional/blob/main/projetos/landing-page-tati.md) |
+| **Catherini Rebelo** | Apresentar atuação profissional e facilitar o contato | [Ver projeto](https://github.com/Ninguem27/Portfolio-Profissional/blob/main/projetos/catherini-rebelo.md) |
 
----
+## Conhecimentos aplicados
 
-## ⚒️ Projeto principal — Forja dos Mundos
+- **Interfaces web:** HTML, CSS, JavaScript e responsividade.
+- **Desenvolvimento de sistemas:** PHP, MySQL e integração com serviços.
+- **Plataforma de RPG:** Supabase, persistência de dados e recursos de PWA.
+- **Entrega e evolução:** Git, GitHub, documentação, revisão e preparação para hospedagem.
+- **Outros estudos:** Java, Kotlin e desenvolvimento de jogos.
 
-A **Forja dos Mundos** é meu principal projeto: uma plataforma criada para reunir ferramentas, conteúdo e experiências voltadas a **mestres, jogadores e criadores de RPG**.
+## Minha forma de trabalhar
 
-- 🗺️ criação e organização de mapas
-- 🐉 bestiários e criaturas
-- 🃏 cartas de habilidades, magias e itens
-- 📖 sistemas, livros e materiais de RPG
-- 🎲 ferramentas para mestres e jogadores
-- 🤖 integrações para comunidade e automação
-- 🧩 recursos para criação e compartilhamento de mundos
+Organizo as necessidades de cada projeto, implemento as funcionalidades, acompanho os testes e faço ajustes a partir do uso. Valorizo clareza na interface, documentação útil e evolução contínua.
 
-<div align="center">
+## Contato
 
-[![Acessar Forja dos Mundos](https://img.shields.io/badge/Acessar-Forja_dos_Mundos-8B5CF6?style=for-the-badge)](https://forjadosmundos.com)
-[![Repositório](https://img.shields.io/badge/Repositorio-Forja_dos_Mundos-111827?style=for-the-badge&logo=github)](https://github.com/Ninguem27/Forja-dos-mundos)
-
-</div>
-
----
-
-## 🐉 RPG & Game Design
-
-| Área | O que desenvolvo |
-|---|---|
-| 🎲 **Sistemas de RPG** | regras, progressão, classes, habilidades e mecânicas |
-| 🌍 **Worldbuilding** | mundos, reinos, facções, culturas e histórias |
-| 🗺️ **Mapas & Cenários** | regiões, cidades, masmorras e ambientes de jogo |
-| 🐲 **Bestiários** | criaturas, inimigos, encontros e desafios |
-| 🃏 **Cartas de RPG** | magias, habilidades, itens, personagens e equipamentos |
-| 💻 **Ferramentas digitais** | sites, geradores e recursos para mesas de RPG |
-
----
-
-## 🧰 Tecnologias
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🐍 Contribuições em movimento
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub" />
-
-</div>
-
----
-
-## 🎲 Role os dados
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ninguem27/Ninguem27/main/assets/d20-rolling.gif" width="520" alt="D20 de RPG sendo jogado" />
-
-**Todo novo projeto começa com uma rolagem.**
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-```text
-⚒️ FORJA DOS MUNDOS
-│
-├── 🌍 Construção de mundos
-├── 🗺️ Mapas e ambientações
-├── 🐉 Bestiários e criaturas
-├── 🃏 Cartas e recursos de jogo
-├── 🎲 Sistemas e ferramentas para RPG
-├── 🤖 Comunidade e automações
-└── 💻 Desenvolvimento web
-```
-
-Meu objetivo é continuar evoluindo esses projetos até transformar a **Forja dos Mundos** em um ecossistema completo para criação e uso de conteúdo de RPG.
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matachancho02@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ninguem_27of)
-
-### ⚔️ Código, sistemas e mundos sendo forjados um projeto de cada vez.
-
-`Ninguem27 • Forja dos Mundos`
-
-</div>
+[Portfólio com os quatro projetos](https://github.com/Ninguem27/Portfolio-Profissional) · [matachancho02@gmail.com](mailto:matachancho02@gmail.com) · [Instagram](https://instagram.com/ninguem_27of)
